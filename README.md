@@ -31,7 +31,7 @@ YOU.github.io/my-portfolio   ← live in ~2 minutes
 
 Click the green **"Use this template"** button at the top of this page → **"Create a new repository"**.
 
-> **Naming tip:** Name it `yourusername.github.io` and your portfolio lives at the root (`yourusername.github.io`). Name it anything else (e.g. `portfolio`) and it lives at `yourusername.github.io/portfolio`.
+> **Naming tip:** Name it `Jeanyjean09.github.io` and your portfolio lives at the root (`Jeanyjean09.github.io`). Name it anything else (e.g. `portfolio`) and it lives at `Jeanyjean09.github.io/portfolio`.
 
 ### 2. Enable GitHub Pages
 
@@ -42,18 +42,16 @@ In your new repo: **Settings → Pages → Source → GitHub Actions**. Save.
 This is the **only file you need to touch.** Every field has a comment. Edit it on GitHub directly (click the pencil icon), commit, and your site builds automatically.
 
 ```yaml
-name: "Your Name"
+name: "MEVIL JEAN GEROMO"
 title: "Software Engineer"
-email: "you@example.com"
+email: "geromomeviljean@gmail.com"
 openToWork: true        # shows the "Open to Opportunities" banner
 
-about: |
-  Write 2-3 sentences about yourself here.
-  The pipe symbol lets you write across multiple lines.
+I'm a Full Stack Developer who builds fast, scalable web applications from front to back. I specialize in [React/Next.js] on the frontend and [Node.js/Python] on the backend, turning complex ideas into clean, user-friendly digital products
 
 social:
-  github: "https://github.com/yourusername"
-  linkedin: "https://linkedin.com/in/yourusername"
+  github: "https://github.com/Jeanyjean09"
+  linkedin: "https://linkedin.com/in/Jeanyjean09"
 ```
 
 Your live URL appears in **Settings → Pages** once the first deploy finishes (~2 min).
@@ -79,11 +77,11 @@ Your live URL appears in **Settings → Pages** once the first deploy finishes (
 
 | Field | Required | Description |
 |-------|----------|-------------|
-| `name` | Yes | Your full name |
-| `title` | Yes | Job title or headline |
-| `email` | Yes | Contact email |
-| `tagline` | No | One-line summary shown on the hero |
-| `location` | No | City, Country |
+| `name` | Yes | MEVIL JEAN B. GEROMO |
+| `title` | Yes | FULL STACK DEVELOPER |
+| `email` | Yes | geromomeviljean@gmail.com |
+| `tagline` | No | From front to back. Built right |
+| `location` | No | Manila, Philippines |
 | `avatarUrl` | No | URL to your photo — empty shows initials |
 | `openToWork` | No | `true` shows the "Open to Opportunities" banner |
 | `theme.defaultTheme` | No | `light`, `dark`, or `system` |
@@ -106,7 +104,7 @@ See `portfolio.config.yaml` for a fully-commented example of every field and eve
 Set `avatarUrl` to any public image URL:
 
 ```yaml
-avatarUrl: "https://github.com/yourusername.png"
+avatarUrl: "https://github.com/Jeanyjean09.png"
 ```
 
 GitHub profile pictures work perfectly — just swap in your username.
